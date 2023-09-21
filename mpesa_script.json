@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mpesa-script",
+  "private_key_id": "433e6a45d13854d79ac8be7b4fc579e42a18eb9c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTqOrXnbF8eW3l\nJ0qNjEceWQ3vB/c/CpZOSBhwla61toPuwhGSFGaAKCYtcoQ0sbjUGb0cbE5iXxZx\nrY6dggcGZRLciGUPDAParhVKvFAjBWyVW82vSXMES/oSGO84kDWl4upeFJSzeqPH\n0T2IxzeGl6Vg6PwQKLjDVnTWVfwH0Ay+J2u3JB7t1iepEdlnGTzQTpXkKICv10Pp\ndI+/QzTRHxCLJitf6h7XjZS+PnRz2u2hl0YC/ihPR/c5O49NtJ1QKZAEHaiw4uWF\nyXmq/wKxSLi48uGRj9388ySEoyAF8bpNbsRy/xmSLMm+4edPM4tzmldXWnhE9TNZ\n0w5b3cuhAgMBAAECggEAC/jRZGXsxgSMoP92hyhGAIiF0if3m0b9xp/rfqNqHlNH\nG0rlBAfSiWaxTB+erJKt3eoLyTmzZaXeZt/WgdW65dNzPD/xxBFdqXGbI4mgbcQE\nMYmKX425FfyMgJgM9ecq8FResHjGYBrXJzmlsEt2ZPmbDC7OzRovOItMG1ssi4N7\nIKQBpvL7azrbNIJperwy02ACZSQux0wWFcGWhgJp9IUqg1n7Yr4yCsGk43MW8OqS\n3amRc7DfZqzODDn8pGRoJ6bLlP0K/YaV1NrwLP5YB1ekI1FreM2czpvceCWYK6Uq\nMiShsl5jv4aLq9z1Ou+7quRVA9kKvuGzT76CoE3KDQKBgQD0utDIWdrbDMolytKX\nyKTQUtc7IKnDJbzqYjctuAjXZ/SvKgiob6+36OGv+pkBlCodEal8JGWKhQg6bmdT\nYrygb9wXmQHRYiUqBB+VZDOd1pa/VjYEml2aYszirU8KNDjH2pifmQGK9GtTs+6u\nvVf9ASGfQ3X6AU/bxMIDDvB4vQKBgQDdaDtSaWoLFG0GIWB+BOSkaYTt4UiLll7U\nuCax04GdRGTpiqe/ZX+Be8V54yUbrGsVtahRVgTYLVMQjeSDNS0XfTL2xeQg1x+0\nPHyyC7lICxmxOIDmIpyvDk16WVdX+sFpgorVXnzfcI2IFdRijF6xwcr4ZQ6nWUhc\nxXkF51QGtQKBgQCPw4rQl1Bkq8+4gbxSo/CF3JRJTLfNRscCnS2y8tBm0c/Acp3h\nbLK6A9lIipsFfWd76hs5LRxlUh7yTFbweik6ylttlVmnCdOxKfjvxow35Y5q2hcj\nfxcLkYywgITVBrZwWO6dmsF4QnsmEaZeCia9HsQEjhmpAspJ3Pzn1QfYtQKBgQDb\n67Go/W5IzSQyB6s54ZBewzU3uCOAC3/smXJOBkHjvdDirUhMc/v/2LphhL8SSuQf\nL06eY+vx8qtkcRy/O22rvD+IIS6ldClYtRBDJiQHLId7oh1e+phZxcItulpo2HmP\nXQycPfuZUcozl0NcFAPnWxBKRM8WaTfYdons1EeBVQKBgFqKs95nAYyBItMDhNqG\nFpI/ypKvhUK7XVJotxE8lullsbzHlIge/B3EouZR6Jwj2wGsDSy6jc3EPsu6TY5D\nb8ww2p6x5jQ5RMtiICRwKp1w7PVPnZPvSGYcpP3Tg+5rPvigjvcwlGLtIHUuNr3w\nQOH3KH16lNCArJRyKso9QHcv\n-----END PRIVATE KEY-----\n",
+  "client_email": "mpesa-script@mpesa-script.iam.gserviceaccount.com",
+  "client_id": "107706726562930949596",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mpesa-script%40mpesa-script.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

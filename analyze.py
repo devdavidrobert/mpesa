@@ -1,0 +1,1 @@
+from open_pdf import password, file_name, file_id, customer_name, mobile_number
